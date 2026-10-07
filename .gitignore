@@ -1,0 +1,4 @@
+.cache
+build/
+build-asan/
+sets_cli_demo
